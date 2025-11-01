@@ -1,4 +1,4 @@
- Data-Analyis  
+ Data-Analysis  
 A data-analysis project by Prince Ray.
 
 🧠 Project Overview  
